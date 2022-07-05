@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-chanikya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanikyarachamalla--01629954/)](https://www.linkedin.com/in/chanikya--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-chanikyarachamalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanikyarachamalla--01629954/)](https://www.linkedin.com/in/chanikya--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-chanikyarachamalla-green)](https://www.chanikya)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-chanikyarachamalla-yellow)](https://stackoverflow.com/users/3687251/chanikyarachamalla-)
 
